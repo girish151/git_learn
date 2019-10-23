@@ -1,4 +1,8 @@
 Hi, this is girish
 It is the first file created by me on git repository.
 this is a new line added.
+<<<<<<< HEAD
 a new line added now.
+=======
+one new line added from company machine
+>>>>>>> 93ba797729d0ed9917f667db7386825f07959495
